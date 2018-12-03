@@ -1,2 +1,0 @@
-# qiaojunfeng.github.io
-mysite
