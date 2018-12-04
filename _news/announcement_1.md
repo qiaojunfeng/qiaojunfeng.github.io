@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2018-12-04 19:13:00+0800
 inline: true
 ---
 
-A simple inline announcement.
+My homepage is online! :sparkles: :smile:
