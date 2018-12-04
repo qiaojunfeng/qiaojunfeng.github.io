@@ -1,16 +1,15 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Junfeng</strong> Qiao
+description: Master student at <a href="https://www.buaa.edu.cn">Beihang University</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Beihang University</p>
+    <p>Haidian, Beijing</p>
 
 news: true
 social: true
