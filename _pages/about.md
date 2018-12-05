@@ -17,4 +17,6 @@ social: true
 
 Hi, I am Junfeng Qiao, a Master's student at <a href="https://www.buaa.edu.cn">Beihang University</a>.
 
-I am currently working on density functional theory, spintronics, and programming.
+I am currently working on density functional theory, its algorithm, and its application to spintronics. 
+
+Besides, programming and math are my favorites. 
