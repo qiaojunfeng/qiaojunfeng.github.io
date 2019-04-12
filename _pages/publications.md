@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: Publications categorized by chronological order.
-years: [2018, 2017]
+years: [2019, 2018, 2017]
 ---
 
 {% for y in page.years %}
