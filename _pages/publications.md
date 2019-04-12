@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications categorized by chronological order.
+description: Selective list of publications, categorized by chronological order.
 years: [2019, 2018, 2017]
 ---
 

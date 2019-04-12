@@ -2,15 +2,21 @@
 layout: page
 title: spin Hall conductivity
 description: algorithm & implementation
-img: /assets/img/12.jpg
+img: /assets/img/she_en.png
 ---
+#### Calculation of intrinsic spin Hall conductivity by Wannier interpolation
 
-https://dx.doi.org/10.1103/PhysRevB.98.214402
+  The theory is described in [Phys. Rev. B 98, 214402 (2018)](https://dx.doi.org/10.1103/PhysRevB.98.214402).
 
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
+  The computation code is hosted on [my GitHub repository](https://github.com/qiaojunfeng/wannier90/tree/shc).
+
+  <figure>
+  <img src="{{ site.baseurl }}/assets/img/pt_shc.png" alt="" width="600"/>
+  <figcaption style="text-align: center;">spin Hall conductivity of fcc Pt.</figcaption>
+  </figure>
+
+#### Spin Hall conductivity of WTe2/MoTe2
+
+  [Physical Review B 99, 060408 (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.060408)
+
 

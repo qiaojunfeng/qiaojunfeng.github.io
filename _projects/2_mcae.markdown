@@ -2,18 +2,14 @@
 layout: page
 title: magneto-crystalline anisotropy
 description: calculations & algorithm
-img: /assets/img/2.jpg
+img: /assets/img/pma.png
 ---
 
-https://dx.doi.org/10.1103/PhysRevB.97.054420
+#### Using Wannier interpolation to calculate magnetocrystalline anisotropy energy
 
-http://arxiv.org/abs/1806.01536
+  [Computer Physics Communications 238, 203 (2019)](https://doi.org/10.1016/j.cpc.2018.12.001)
 
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+#### Magnetrocrystalline anisotropy of Ta/Co2FeAl structure
+
+  [Physical Review B 97, 054420 (2018)](https://dx.doi.org/10.1103/PhysRevB.97.054420)
+
