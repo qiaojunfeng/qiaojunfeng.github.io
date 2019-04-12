@@ -15,7 +15,7 @@ news: true
 social: true
 ---
 
-Hi, I am Junfeng Qiao (乔俊峰), a Master's student just graduated from <a href="https://www.buaa.edu.cn">Beihang University (北京航空航天大学)</a>.
+Hi, I am Junfeng Qiao (乔俊峰), and I have just acquired my Master's degree from <a href="https://www.buaa.edu.cn">Beihang University (北京航空航天大学)</a>.
 
 I am currently working on density functional theory, its algorithm, and its application to spintronics. 
 
