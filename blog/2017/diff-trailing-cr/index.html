@@ -6,14 +6,14 @@
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Junfeng Qiao</title>
+  <title>Junfeng Qiao | diff trailing CR</title>
   <meta name="description" content="Junfeng's homepage.
 ">
 
   <link rel="shortcut icon" href="/assets/img/favicon.ico">
 
   <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="canonical" href="/blog/">
+  <link rel="canonical" href="/blog/2017/diff-trailing-cr/">
 </head>
 
 
@@ -82,36 +82,23 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="header-bar">
-  <h1>Junfeng's blog</h1>
-  <h2>accumulation of knowledge</h2>
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">diff trailing CR</h1>
+    <p class="post-meta">October 23, 2017</p>
+  </header>
+
+  <article class="post-content">
+    <p>linux下以LF作为换行符，windows下是CR/LF。windows下写的python代码在linux下运行前要先用vi的<code class="language-plaintext highlighter-rouge">:set fileformat=unix</code>或<code class="language-plaintext highlighter-rouge">:set ff=unix</code>或者<code class="language-plaintext highlighter-rouge">dos2unix</code>来转换成linux的文本格式。</p>
+
+<p>有时候分别在两个平台改过代码并保存成了不同的文件，这时候需要<code class="language-plaintext highlighter-rouge">diff</code>来看看区别。但是<code class="language-plaintext highlighter-rouge">diff</code>默认会将行尾LF和CR/LF也视为不同，此时只要使用<code class="language-plaintext highlighter-rouge">diff --strip-trailing-cr file1 file2</code>参数就可忽略换行符的差异。</p>
+
+  </article>
+
+  
+
 </div>
-
-
-<ul class="post-list">
-  
-    <li>
-      <h2><a class="post-title" href="/blog/2018/mpi/">MPI basics</a></h2>
-      <p class="post-meta">December 16, 2018 — 02:57</p>
-      <p>MPI</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/2017/diff-trailing-cr/">diff trailing CR</a></h2>
-      <p class="post-meta">October 23, 2017 — 14:23</p>
-      <p>diff CR/LF</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/2017/compile-gcc-from-source/">compile gcc from source</a></h2>
-      <p class="post-meta">October 16, 2017 — 14:23</p>
-      <p>从源文件编译gcc</p>
-    </li>
-  
-</ul>
-
-
-
 
       </div>
     </div>
